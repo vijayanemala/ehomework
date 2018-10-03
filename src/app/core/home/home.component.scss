@@ -1,4 +1,61 @@
-h2 {
-  color: green;
-  text-align: center;
+img {
+  width: 1410px;
+}
+
+.main-card {
+  display: flex;
+  .card1 {
+    margin: 40px 0px 0px 120px;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    border: none;
+    i {
+      font-size: 70px;
+      color: #1fc8db;
+    }
+    p {
+      margin-top: 10px;
+      font-family: ChronicleTextG1-Semi;
+      font-size: 16px;
+      color: #64B145;
+      line-height: 28px;;
+    }
+  }
+  .card2 {
+    margin: 40px 0px 0px 140px;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    border: none;
+    i {
+      font-size: 70px;
+      color: #1fc8db;
+    }
+    p {
+      margin-top: 10px;
+      font-family: ChronicleTextG1-Semi;
+      font-size: 16px;
+      color: #64B145;
+      line-height: 28px;;
+    }
+  }
+  .card3 {
+    margin: 40px 0px 0px 140px;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    border: none;
+    i {
+      font-size: 70px;
+      color: #1fc8db;
+    }
+    p {
+      margin-top: 10px;
+      font-family: ChronicleTextG1-Semi;
+      font-size: 16px;
+      color: #64B145;
+      line-height: 28px;;
+    }
+  }
 }
